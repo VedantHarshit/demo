@@ -1,3 +1,3 @@
 # demo
 demo repo
-Author = Vedant Harshit
+Author = Vedant Harshit - good name
